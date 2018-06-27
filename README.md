@@ -1,6 +1,6 @@
 # flutter_123mall
 
-使用flutter 开发的 123拍卖
+仿照123拍卖 学习flutter开发，
 
 ## Getting Started
 
